@@ -1,0 +1,1 @@
+[22-Dec-2020 14:08:45 Asia/Jakarta] PHP Fatal error:  Cannot redeclare History::index() in /home/jack9615/public_html/flashsale/application/controllers/History.php on line 17
